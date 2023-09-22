@@ -2,6 +2,8 @@
 
 Welcome to the Adventure Game, a text-based interactive game written in Python! In this game, you will embark on a mystical journey in a land where gods and mortals coexist. Your choices will shape your destiny, and you may encounter unexpected challenges along the way. The game is played on a command line interface(CLI)
 
+![CLI screenshot](assets/adventure-game.PNG)
+
 ## How to Play
 
 1. To start the game, run the Python script `python -u adventure_game.py` in your preferred Python environment.
